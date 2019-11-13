@@ -1,5 +1,6 @@
 golang运行基础依赖包
 下载放到$GOPATH/src目录下，运行以下命令：
+
 go install github.com/mdempsky/gocode 
 go install github.com/uudashr/gopkgs/cmd/gopkgs 
 go install github.com/ramya-rao-a/go-outline 
